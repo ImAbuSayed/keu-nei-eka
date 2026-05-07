@@ -13,14 +13,17 @@
 | Lyric Writing Date | May 07, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/keu-nei-eka/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Get a Licensing Quote for Keu Nei Eka](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Request Licensing for Keu Nei Eka](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> অচেনা এক ঘোরে কাঁপে আমার এই ধূসর রাত.. ধূসর রাত..
+> নীল ধোঁয়ায় মিশে যায় তোমার ওই উষ্ণ হাত.. উষ্ণ হাত..
+> অন্ধকার এই বুকে বাজে আজ বিষণ্ণ সুর
+> ছায়া হয়ে কেন তুমি থাকো এত বেশি দূর.. বেশি দূর..
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
