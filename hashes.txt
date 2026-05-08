@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Keu Nei Eka
+
+This log tracks the cryptographic history and versioning for the song **Keu Nei Eka** (keu-nei-eka).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T16:10:17.794023 | `v1` | `0103174a7e9e9aa39cdf521e88cd27743f18cd0b435154b5bb03358a55bec2c4` | `0e1dd886adeb286929f7795eefa0ca7c8741323b76c8e2aabee21c0d36466f0a` | `2026-05-08_keu-nei-eka-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
